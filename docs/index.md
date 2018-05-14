@@ -1,5 +1,5 @@
 ---
 title: Welcome
-permalink: /docs/home
+permalink: /
 redirect_from: /docs/index.html
 ---
