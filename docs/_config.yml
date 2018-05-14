@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+name: efffail • biased advice after security announcements
+description: Proposal to write correct advice for security inncidents
+timezone: Etc/UTC
+exclude:
+- ".gitignore"
+- CNAME
